@@ -1,0 +1,3 @@
+# reloadtermux
+
+sh reload
